@@ -1,0 +1,5 @@
+streamlit
+tensorflow==2.9.0  # Adjust version if needed
+numpy
+pillow
+openai
